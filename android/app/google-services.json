@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423393892480",
+    "project_id": "audreysunflower-43a8b",
+    "storage_bucket": "audreysunflower-43a8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423393892480:android:aef44c6d1cfc23422b6e65",
+        "android_client_info": {
+          "package_name": "com.example.sunflower_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5LQCUfDsgVi51jND5HrVD0HpsvFlIHAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
